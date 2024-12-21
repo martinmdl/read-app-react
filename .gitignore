@@ -30,5 +30,6 @@ coverage
 # VSC - Debugger for Chrome
 .vscode
 
-
+# ENVIRONMENT VARIABLES
+.env
 
