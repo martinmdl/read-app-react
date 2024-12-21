@@ -1,1 +1,1 @@
-## [ReadApp website](https://read-app-react.vercel.app/)
+## [ReadApp website](https://readappadmin.vercel.app/)
